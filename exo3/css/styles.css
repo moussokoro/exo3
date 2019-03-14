@@ -1,0 +1,45 @@
+body
+{
+	    border: 1px solid transparent;
+	    border-radius: 5px;
+    transition: 0.6s ease;
+}
+
+.ma
+{
+	color: #444;
+	font-weight: 300px;
+	font-size: 30px;
+	text-align: center;
+	padding: 10px;
+}
+.p
+{
+	color: gray;
+	font-family: arial,sans-serif;
+	font-size: 18px;
+	padding: 10px;
+}
+.text input
+{  height: 60px;
+	width: 400px;
+	text-align: center;
+	margin-top: 20px;
+	border-radius: 3px;
+
+}
+
+a
+{
+	margin-right: 20px;
+}
+.myform
+{
+	border-radius: 4px;
+	text-align: center;
+}
+.img-responsive .center-block
+{
+	width: 1000px;
+	height: 1000px;
+}
